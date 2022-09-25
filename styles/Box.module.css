@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.box1 {
+  background-color: red;
+  flex: 1;
+}
+.box2 {
+  background-color: rgb(53, 132, 46);
+  flex: 1;
+}

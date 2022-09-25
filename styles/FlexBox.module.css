@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  height: 100vh;
+  border: 2px solid black;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  height: 122px;
+  width: 122px;
+  background-color: rebeccapurple;
+  margin: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

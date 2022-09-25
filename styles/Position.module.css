@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  justify-content: center;
+  /* align-items: flex-end; */
+  align-self: center;
+}
+.box1 {
+  position: absolute;
+  background-color: red;
+  height: 122px;
+  width: 122px;
+  right: 0px;
+}
+.box2 {
+  position: absolute;
+  background-color: rebeccapurple;
+  height: 122px;
+  width: 122px;
+  bottom: 0px;
+  right: 0px;
+}
+
+.box3 {
+  position: absolute;
+  background-color: yellow;
+  height: 122px;
+  width: 122px;
+  bottom: 0px;
+  left: 0px;
+}
+.box4 {
+  position: absolute;
+  background-color: gray;
+  height: 122px;
+  width: 122px;
+}
+.box5 {
+  background-color: aqua;
+  width: 122px;
+  height: 122px;
+}
